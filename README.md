@@ -2,7 +2,9 @@
 
 Author: Atiq Kainan Ahmed. Email: atiqka@yahoo.com
 
-Output: The output map is shown here: https://github.com/atiqka/Elnino2026_child-impact/blob/main/ElNino_Child_Impact_Map_SEA_2025_26_20261109_045101.png
+Output: 
+The output map with 10-year (2016-2025) baseline is shown here: 
+The output map with 6-year baseline (2020-2025) is shown here: https://github.com/atiqka/Elnino2026_child-impact/blob/main/ElNino_Child_Impact_Map_SEA_2025_26_20261109_045101.png
 
 
 ## Overview
@@ -31,7 +33,7 @@ The analysis covers 11 Southeast Asian countries: **Brunei, Cambodia, Indonesia,
 
 ### 2. Climate Hazard Indicators (ERA5-Land)
 
-Climate anomalies compare the Evaluation Period (2026) against a **6-year Climatology Baseline (2020 – 2025)** using monthly averaged reanalysis data:
+Climate anomalies compare the Evaluation Period (2026) against **two different climatological baselines**: a) a 10-year baseline (2016-2025), and b) a 6-year  baseline (2020 – 2025) using monthly averaged reanalysis data:
 
 * **Temperature Anomaly (Heat Stress):** The temperature anomaly is calculated by taking the average temperature of the evaluation period and subtracting the average temperature of the baseline climate period. Both temperature values are converted from Kelvin to degrees Celsius by subtracting 273.15. Positive values indicate conditions that are warmer than the long-term average.
 
