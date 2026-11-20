@@ -4,9 +4,9 @@ Author: Atiq Kainan Ahmed. Email: atiqka@yahoo.com
 
 Output: 
 
-The output map with 10-year (2016-2025) baseline is shown here: https://github.com/atiqka/ElNino2026_child-impact_SEA/blob/main/ElNino_Child_Impact_Map_SEA_2025_27_20261120_222713.png
+The output map with the 10-year (2016-2025) baseline is shown here: https://github.com/atiqka/ElNino2026_child-impact_SEA/blob/main/ElNino_Child_Impact_Map_SEA_2025_27_20261120_222713.png
 
-The output map with 6-year baseline (2020-2025) is shown here: https://github.com/atiqka/Elnino2026_child-impact/blob/main/ElNino_Child_Impact_Map_SEA_2025_26_20261109_045101.png
+The output map with the 6-year baseline (2020-2025) is shown here: https://github.com/atiqka/Elnino2026_child-impact/blob/main/ElNino_Child_Impact_Map_SEA_2025_26_20261109_045101.png
 
 
 ## Overview
