@@ -55,13 +55,13 @@ $$\text{Score} = \left( \frac{x - x_{\min}}{x_{\max} - x_{\min}} \right)^{0.4} \
 
 The final **Potential Child Impact Score** (clamped between 1 and 5) is calculated as a weighted linear combination:
 
-a) **Hazard Composite (60% of total):**
+a) **Hazard Composite (50% of total):**
    
    Hazard= (0.50 x SPI) + (0.50 x Heat)$
 
 b) **Overall Impact Score:**
    
-   Impact = (0.60 x Hazard) + (0.25 x Pop) + (0.15 x Vulnerability)
+   Impact = (0.50 x Hazard) + (0.15 x Pop) + (0.35 x Vulnerability)
 
 **Classification Scale:** 
 
