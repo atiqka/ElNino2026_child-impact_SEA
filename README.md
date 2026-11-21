@@ -1,10 +1,10 @@
-## El Niño 2026's Potential Impact Evaluation Map on Children in Southeast Asia (an ongoing analysis to be continued until phasing out of the El Niño event in mid-2027)
+## El Niño 2026's Potential Impact Evaluation Map on Children in Southeast Asia (an ongoing analysis to be continued until the El Niño event phases out in 2027)
 
 Author: Atiq Kainan Ahmed. Email: atiqka@yahoo.com
 
 Output: 
 
-The output map with the 10-year (2016-2025) baseline is shown here: https://github.com/atiqka/ElNino2026_child-impact_SEA/blob/main/Script_R_elnino2026_childImpact_May-Nov2026-sc.pdf
+The El Niño 2026's Potential Impact Evaluation Map on Children in Southeast Asian countries for the period of **May-November 2026** against a **10-year climatological baseline (2016-2025)** is shown here https://github.com/atiqka/ElNino2026_child-impact_SEA/blob/main/Script_R_elnino2026_childImpact_May-Nov2026-sc.pdf
 
 
 ## Overview
